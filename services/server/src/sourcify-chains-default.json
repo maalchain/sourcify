@@ -1292,5 +1292,23 @@
         "url": "https://explorer.mantle.xyz/"
       }
     }
+  },
+  "786": {
+    "sourcifyName": "MaalChain Mainnet",
+    "supported": true,
+    "fetchContractCreationTxUsing": {
+      "blockscoutScrape": {
+        "url": "https://maalscan.io/"
+      }
+    }
+  },
+  "7860": {
+    "sourcifyName": "MaalChain Testnet",
+    "supported": true,
+    "fetchContractCreationTxUsing": {
+      "blockscoutScrape": {
+        "url": "https://testnet2.maalscan.io/"
+      }
+    }
   }
 }
